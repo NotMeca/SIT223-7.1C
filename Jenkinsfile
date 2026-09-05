@@ -1,4 +1,4 @@
-// Testing automatic Jenkins trigger
+// Test the automatic Jenkins trigger
 
 pipeline {
     agent any
