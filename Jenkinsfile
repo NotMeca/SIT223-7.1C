@@ -1,5 +1,5 @@
 // Test the automatic Jenkins trigger
-
+// SCM trigger test - resubmission
 pipeline {
     agent any
 
